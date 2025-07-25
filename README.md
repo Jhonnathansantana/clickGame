@@ -2,7 +2,7 @@
 
 ¡Un adictivo juego de reflejos con estética de Minecraft! "Fiebre de Bloques" pone a prueba tu velocidad y precisión al hacer clic. El objetivo es simple: destruye los bloques que aparecen en la pantalla con el clic correcto antes de que se agote el tiempo. ¡Consigue la puntuación más alta posible!
 
-![Imagen del Juego](https://placehold.co/600x400/333333/FFFFFF?text=Fiebre+de+Bloques)
+![Imagen del Juego](https://raw.githubusercontent.com/Jhonnathansantana/clickGame/refs/heads/main/Screenshot%202025-07-25%20111354.png)
 
 ---
 
