@@ -120,6 +120,8 @@
                 // Muestra la puntuación final y el modal de "Game Over".
                 this.elements.finalScoreText.innerHTML = `<span style="color:#ffeb3b; font-size: 1.5rem;">${this.state.playerName}</span><br>Tu Puntuación: ${this.state.score}`;
                 this.elements.gameOverModal.classList.remove('hidden');
+
+                this.elements.restartButton.addEventListener('click', () => this.showStartScreen(), { once: true });
             },
             
             /**
